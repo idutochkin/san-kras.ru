@@ -1,0 +1,54 @@
+# yii console command
+/yii
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+/test
+
+# composer itself is not needed
+#composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+#DataBase
+/config/db.php
+/config/params-local.php
+/config/web-local.php
+
+# robots.txt
+/web/robots.txt
+
+/web/.htaccess
+
+#gulp
+/node_modules
+/gulpfile.js
+/web/less
+#/web/css/style.css
+#/web/css/fonts.css
+/composer.lock
+.ftpquota
+.htaccess
+/web/test
+
+
